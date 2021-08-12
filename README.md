@@ -1,10 +1,8 @@
 ### Olá, sou o Bruno Calvi ... 👋
 
 - 🔭 Atualmente trabalhando em Front-end com os frameworks HTML5, CSS3, Bootstrap e alguns detalhes em JavaScript...
-- 
 - 💻 Estudando back-end com PHP e MySQL ...
-
-Futuramente pretendo ser um desenvolvedor Full Stack
+- 🎯 Futuramente pretendo ser um desenvolvedor Full Stack
 
   <div>
     <a href="https://github.com/brunocalvi">
