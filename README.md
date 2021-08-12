@@ -4,6 +4,8 @@
 - 💻 Estudando back-end com PHP e MySQL ...
 - 🎯 Futuramente pretendo ser um desenvolvedor Full Stack
 
+  <br/><br/>
+  
   <div>
     <a href="https://github.com/brunocalvi">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunocalvi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -29,8 +31,8 @@
   </div>
   
   <div>
-    <br/>
-    <br/>
+    
+    <br/><br/>
     
     <p align="center">Se você quer transformar o mundo, experimente primeiro promover o seu aperfeiçoamento pessoal e realizar inovações no seu próprio interior. Estas atitudes se refletirão em mudanças positivas no ambiente a sua volta. Deste ponto em diante, as mudanças se expandirão em proporções cada vez maiores. Tudo o que fazemos produz efeito.</p>
 
