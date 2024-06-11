@@ -17,7 +17,7 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Bootstrap" height="auto" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img align="center" alt="PHP" height="auto" width="40" src="https://img.icons8.com/color/48/000000/php.png"/>
+    <img align="center" alt="PHP" height="auto" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"/>
     <img align="center" alt="Node.js" height="auto" width="40" src="https://icongr.am/devicon/nodejs-original.svg"/>
    <img align="center" alt="Vue.js" height="auto" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor"/>
   </div>
