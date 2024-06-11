@@ -19,6 +19,7 @@
     <img align="center" alt="Bootstrap" height="auto" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img align="center" alt="PHP" height="auto" width="40" src="https://img.icons8.com/color/48/000000/php.png"/>
     <img align="center" alt="Node.js" height="auto" width="40" src="https://icongr.am/devicon/nodejs-original.svg"/>
+   <img align="center" alt="Vue.js" height="auto" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor"/>
   </div>
   
   ##
