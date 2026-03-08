@@ -2,7 +2,7 @@
  
 - 🔭 Atualmente trabalhando em Front-end com os as tecnologias PHP, HTML5, CSS3, Bootstrap e alguns detalhes em JavaScript ...
 - 💻 Estudando Javascript node.js, Vue.js e React.js ...
-- 🎯 Pretendo ser um desenvolvedor Full Stack
+- 🎯 Estudando para ser um desenvolvedor Full Stack
 
   <br/>
   
