@@ -28,9 +28,9 @@ Git · GitHub · Linux · Docker
 API REST modular para gerenciamento de chamados com **fila assíncrona (Bull + Redis)**, ORM Sequelize e cobertura de **testes automatizados** (Jest + Supertest).
 `Node.js` `Express` `Redis` `Bull` `Sequelize` `MySQL` `Jest`
 
-### 🗺️ [Mapa Ponto de Vendas](https://github.com/brunocalvi/mapa-ponto-vendas)
-Visualização geoespacial de pontos de venda com a API do **Mapbox GL JS**.
-`JavaScript` `Mapbox GL JS` `REST API`
+### 🗺️ [Mapa Interativo de Assentos](https://github.com/brunocalvi/mapa-assentos)
+Mapa interativo de assentos, incluindo zoom com pinça, pan, seleção de assentos, edição visual e integração com modais.
+`JavaScript` `Vue.js` `Fabric.js` `REST API`
 
 ### 🎮 [API Consulta Jogos](https://github.com/brunocalvi/API-consulta-jogos)
 API REST com CRUD completo para consulta e gerenciamento de jogos.
