@@ -1,43 +1,54 @@
-### Olá, sou o Bruno Calvi ... 👋
- 
-- 🔭 Atualmente trabalhando em Front-end com os as tecnologias PHP, HTML5, CSS3, Bootstrap e alguns detalhes em JavaScript ...
-- 💻 Estudando Javascript node.js, Vue.js e React.js ...
-- 🎯 Estudando para ser um desenvolvedor Full Stack
+# Olá, sou o Bruno Calvi 👋
 
-  <br/>
-  
-  <div>
-    <a href="https://github.com/brunocalvi">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunocalvi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocalvi&layout=compact&langs_count=7&theme=dark"/>
-  </div>
+**Desenvolvedor Full Stack** com mais de 4 anos de experiência construindo aplicações web completas — do back-end ao front-end.
 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Bootstrap" height="auto" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img align="center" alt="PHP" height="auto" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor"/>
-    <img align="center" alt="Node.js" height="auto" width="40" src="https://icongr.am/devicon/nodejs-original.svg"/>
-   <img align="center" alt="Vue.js" height="auto" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor"/>
-  </div>
-  
-  ##
+Atualmente trabalho na **Adaltech Soluções para Eventos**, onde sou responsável pelo desenvolvimento e manutenção de ~40 plataformas de e-commerce simultâneas.
 
-  <div>
-    <a href="https://api.whatsapp.com/send?phone=5511977441288" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/bruno.calvi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="mailto:calvireis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/brunocalvi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  </div>
-  
-  <div>
-    
-    <br/><br/>
-    
-    <p align="center">Se você quer transformar o mundo, experimente primeiro promover o seu aperfeiçoamento pessoal e realizar inovações no seu próprio interior. Estas atitudes se refletirão em mudanças positivas no ambiente a sua volta. Deste ponto em diante, as mudanças se expandirão em proporções cada vez maiores. Tudo o que fazemos produz efeito.</p>
+---
 
-    __<p>Dalai Lama.</p>__
-  </div>
+## 🛠️ Stack principal
+
+**Back-end**
+Node.js · PHP 7/8 · Express.js · REST APIs · Sequelize · MySQL · MongoDB · Redis · Bull
+
+**Front-end**
+Vue.js · React.js · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Bootstrap
+
+**Testes**
+Jest · Supertest
+
+**Ferramentas**
+Git · GitHub · Linux · Docker
+
+---
+
+## 📌 Projetos em destaque
+
+### 🖥️ [Simulador Help Desk](https://github.com/brunocalvi/simulador-help-desk)
+API REST modular para gerenciamento de chamados com **fila assíncrona (Bull + Redis)**, ORM Sequelize e cobertura de **testes automatizados** (Jest + Supertest).
+`Node.js` `Express` `Redis` `Bull` `Sequelize` `MySQL` `Jest`
+
+### 🗺️ [Mapa Ponto de Vendas](https://github.com/brunocalvi/mapa-ponto-vendas)
+Visualização geoespacial de pontos de venda com a API do **Mapbox GL JS**.
+`JavaScript` `Mapbox GL JS` `REST API`
+
+### 🎮 [API Consulta Jogos](https://github.com/brunocalvi/API-consulta-jogos)
+API REST com CRUD completo para consulta e gerenciamento de jogos.
+`Node.js` `EJS` `REST API`
+
+---
+
+## 📚 Formação
+
+- 🎓 **Pós-graduação em Engenharia e Arquitetura de Software** — FIA Online (2023–2024)
+- 🎓 **Tecnólogo em Gestão de TI** — Estácio de Sá (2017–2019)
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunocalvi/)
+[![Gmail](https://img.shields.io/badge/-Gmail-333?style=flat&logo=gmail&logoColor=white)](mailto:calvireis@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511977441288)
+
 
